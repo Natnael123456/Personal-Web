@@ -9,6 +9,11 @@ nav{
     font-family: 'PT Sans Narrow', sans-serif;
 }
 
+.card{
+
+    border: none;
+}
+
 video{
 
     object-fit: cover;
